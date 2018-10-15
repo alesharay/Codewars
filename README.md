@@ -5,6 +5,6 @@ Solving code katas for C++, Java, and Python.
 - [x] [Hero](https://www.codewars.com/kata/is-he-gonna-survive)
 
 ### Java Katas ###
-
+- [ ] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion)
 
 ### Python Katas ###
