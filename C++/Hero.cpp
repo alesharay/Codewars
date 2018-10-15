@@ -10,7 +10,22 @@ Return True if yes, False otherwise :)
 using namespace std;
 
 bool hero(int bullets, int dragons) {
-  return true;
+  // a place to hold whether the hero will survive
+  bool willSurvive = true;
+  // for each dragon 
+  for(int i = 0; i < dragons; i++) {
+    // if there are less than two bullets remaining
+    if(bullets < 2) {
+      // hero will not survive
+      willSurvive = false;
+      // end here
+      break;
+    }
+    // shoot 2 bullets
+    bullets -= 2;
+  }
+  // return whether or not the hero will survive    
+  return willSurvive;
 }
 
 int main(void) {
