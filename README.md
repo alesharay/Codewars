@@ -6,5 +6,6 @@ Solving code katas for C++, Java, and Python.
 
 ### Java Katas ###
 - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion)
+- [ ] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/solutions/java)
 
 ### Python Katas ###
