@@ -1,8 +1,10 @@
-#CodeWars#
-###(Solving code katas for C++, Python, and Java###
+# CodeWars #
+Solving code katas for C++, Java, and Python.
 
-##C++ Katas##
+### C++ Katas ###
 
-##Java Katas##
 
-##Python Katas##
+### Java Katas ###
+
+
+### Python Katas ###
