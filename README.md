@@ -4,7 +4,7 @@ Solving code katas for C++, Java, and Python.
 ### C++ Katas
 ##### 8kyu
 - [x] [Hero](https://www.codewars.com/kata/is-he-gonna-survive)
-- [ ] [PositiveSum](https://www.codewars.com/kata/sum-of-positive/train/cpp)
+- [x] [PositiveSum](https://www.codewars.com/kata/sum-of-positive/train/cpp)
 
 ### Java Katas
 ##### 8kyu
@@ -12,3 +12,4 @@ Solving code katas for C++, Java, and Python.
 - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/solutions/java)
 
 ### Python Katas
+##### 8kyu
