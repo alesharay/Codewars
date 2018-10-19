@@ -13,3 +13,4 @@ Solving code katas for C++, Java, and Python.
 
 ### Python Katas
 ##### 8kyu
+- [ ] [Tail](https://www.codewars.com/kata/is-this-my-tail)
