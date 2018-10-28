@@ -13,4 +13,5 @@ Solving code katas for C++, Java, and Python.
 
 ### Python Katas
 ##### 8kyu
-- [ ] [Tail](https://www.codewars.com/kata/is-this-my-tail)
+- [x] [Tail](https://www.codewars.com/kata/is-this-my-tail)
+- [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
