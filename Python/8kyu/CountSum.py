@@ -2,11 +2,23 @@
 
 
 def count_positives_sum_negatives(arr):
-
+    countPos = 0
+    negSum = 0
     if arr is None or len(arr) is 0:
         return []
     else:
-        return "undefined"
+      # loop through each value in the array
+
+      # if the value is positive
+
+        # increment the positive counter by 1
+
+      # otherwise
+
+        # add the negative value to the negative sum
+
+        # return an array with the positive count as the first element and the negative num as the second
+    return "undefined"
 
 
 def main():
