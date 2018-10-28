@@ -7,18 +7,18 @@ def count_positives_sum_negatives(arr):
     if arr is None or len(arr) is 0:
         return []
     else:
-      # loop through each value in the array
-
-      # if the value is positive
-
-        # increment the positive counter by 1
-
-      # otherwise
-
-        # add the negative value to the negative sum
-
-        # return an array with the positive count as the first element and the negative num as the second
-    return "undefined"
+        # loop through each value in the array
+        for value in arr:
+            # if the value is positive
+            if value > 0:
+                # increment the positive counter by 1
+                countPos += 1
+            # otherwise
+            else:
+                # add the negative value to the negative sum
+                negSum += value
+    # return an array with the positive count as the first element and the negative num as the second
+    return [countPos, negSum]
 
 
 def main():
