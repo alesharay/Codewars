@@ -5,8 +5,17 @@ In this kata you will create a function that takes a list of non-negative intege
 '''
 
 
-def filter_list(values):
-    ''' write code here'''
+def filter_list(currentList):
+    # a place to hold the new list
+    newList = []
+    # for each value in the given list
+    for currentValue in currentList:
+        # if the value type is not string
+        if type(currentValue) is not str:
+            # add it to the new list
+            newList.append(currentValue)
+    # return the new list
+    return newList
 
 
 def main():
