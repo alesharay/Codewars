@@ -17,4 +17,4 @@ Solving code katas for C++, Java, and Python.
 - [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
 
 ##### 7kyu
-- [ ] [ListFilter](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+- [x] [ListFilter](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
