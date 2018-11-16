@@ -26,7 +26,16 @@ The Challenge:
 #include <iostream>
 using namespace std;
 
+bool narcissistic( int value ) {
+  
+  return false;
+}
+
 int main(int argc, char** argv)
 {
+  cout << narcissistic(7) << " " << true << endl;
+  cout << narcissistic(371) << " " << true << endl;
+  cout << narcissistic(122) << " " << true << endl;
+  cout << narcissistic(4887) << " " << true << endl;
   return 0;
 }
