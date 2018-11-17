@@ -9,15 +9,44 @@
   You can assume the array will always be valid, and there will always be one correct answer.
 */
 
-#include<string>
 #include<iostream>
-#include<math.h>
 #include<vector>
 using namespace std;
 
 string is_sorted_and_how(vector<int> array)
 {
-    return "undefined"; 
+  // a place to store whether the array is sorted in ascending order; assume yes
+  bool sortedAscending = true;
+  // a place to store whether the array is sorted in descending order; assume yes
+  bool sortedDescending = true;
+  // for each value in the array
+  for(int currentElement = 0; currentElement < array.size()-1; currentElement++){    
+    // if the current value is less than the next value
+    if(array[currentElement] < array[currentElement+1]) {
+      // set sorted in descending order to false
+      sortedDescending = false;
+    }
+    // if the current value is greater than the next value 
+    else if(array[currentElement] > array[currentElement+1]) { 
+      // set sorted in ascending order to false
+      sortedAscending = false;
+    }
+  }
+  // if both sorted orders are false
+  if(sortedAscending == false && sortedDescending == false) {
+      // return no
+      return "no";
+  } 
+  // or if sorted in ascending is true
+  else if(sortedAscending) {    
+      // return yes ascending
+      return "yes, ascending";
+  }
+  //  otherwise
+  else {
+      // return yes descending
+    return "yes, descending"; 
+  }
 }
 
 int main(int argc, char** argv) {
