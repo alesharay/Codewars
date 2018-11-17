@@ -7,7 +7,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [PositiveSum](https://www.codewars.com/kata/sum-of-positive/train/cpp)
 
 * ##### 7kyu
-    - [ ] [IsSortedAndHow](https://www.codewars.com/kata/580a4734d6df748060000045)
+    - [x] [IsSortedAndHow](https://www.codewars.com/kata/580a4734d6df748060000045)
 
 * ##### 6kyu
     - [x] [Narcissistic](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
