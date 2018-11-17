@@ -10,7 +10,7 @@ Solving code katas for C++, Java, and Python.
 
 
 ##### 6kyu
-- [ ] [Narcissistic](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+- [x] [Narcissistic](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 
 ### Java Katas
 ##### 8kyu
