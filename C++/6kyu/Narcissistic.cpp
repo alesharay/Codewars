@@ -65,14 +65,13 @@ bool narcissistic( int value ) {
     // return true
   // otherwise
     // return false
-  return false;
+  return (sum == value);
 }
 
-int main(int argc, char** argv)
-{
+int main(int argc, char** argv) {
   cout << narcissistic(7) << " " << true << endl;
   cout << narcissistic(371) << " " << true << endl;
-  cout << narcissistic(122) << " " << true << endl;
-  cout << narcissistic(4887) << " " << true << endl;
+  cout << narcissistic(122) << " " << false << endl;
+  cout << narcissistic(4887) << " " << false << endl;
   return 0;
 }
