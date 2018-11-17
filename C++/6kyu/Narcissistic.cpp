@@ -24,10 +24,43 @@ The Challenge:
 */
 
 #include <iostream>
+#include <string.h>
+#include <math.h>
+
 using namespace std;
 
 bool narcissistic( int value ) {
+// break the value into an array with each number as a separate element
+  // a place to hold the length of the value
+  int length = to_string(value).length();
+  // a place to hold the value array
+  int valArr[length];
+  // a place to store a counter
+  int i = 0;
+  // a place to hold a temp value set to value
+  int tempVal = value;
+  // while the length is greater than 0
+  while(--length >= 0) {
+    // a place to hold the current exponent
+    double divisor = pow(10.0, (double)length);
+    // store the value divided by 10 to the length in the current element of the array
+    valArr[i] = tempVal / divisor;
+    // subtract the value by the highest place
+    tempVal -= valArr[i] * divisor;
+    // increment the counter
+    i++;
+  }
+
+  // a place to store the sum
+
+  // for each value in the array 
+    // take the value to the length of the array
+    // add the value to the sum
   
+  // if the sum equals the value
+    // return true
+  // otherwise
+    // return false
   return false;
 }
 
