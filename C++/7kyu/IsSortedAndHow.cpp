@@ -13,55 +13,51 @@
 #include<vector>
 using namespace std;
 
-// string is_sorted_and_how(vector<int> array)
-// {
-//   // a place to store whether the array is sorted in ascending order; assume yes
-//   bool sortedAscending = true;
-//   // a place to store whether the array is sorted in descending order; assume yes
-//   bool sortedDescending = true;
-//   // for each value in the array
-//   for(int currentElement = 0; currentElement < array.size()-1; currentElement++){    
-//     // if the current value is less than the next value
-//     if(array[currentElement] < array[currentElement+1]) {
-//       // set sorted in descending order to false
-//       sortedDescending = false;
-//     }
-//     // if the current value is greater than the next value 
-//     else if(array[currentElement] > array[currentElement+1]) { 
-//       // set sorted in ascending order to false
-//       sortedAscending = false;
-//     }
-//   }
-//   // if both sorted orders are false
-//   if(sortedAscending == false && sortedDescending == false) {
-//       // return no
-//       return "no";
-//   } 
-//   // or if sorted in ascending is true
-//   else if(sortedAscending) {    
-//       // return yes ascending
-//       return "yes, ascending";
-//   }
-//   //  otherwise
-//   else {
-//       // return yes descending
-//     return "yes, descending"; 
-//   }
-// }
-
+/* VERBOSE SOLUTION
 string is_sorted_and_how(vector<int> array)
 {
+  // a place to store whether the array is sorted in ascending order; assume yes
   bool sortedAscending = true;
+  // a place to store whether the array is sorted in descending order; assume yes
   bool sortedDescending = true;
-  for(int currentElement = 0; currentElement < array.size()-1; currentElement++){    
-    if(array[currentElement] < array[currentElement+1]) {
+  // for each value in the array
+  for(int i = 0; i < array.size()-1; i++){    
+    // if the current value is less than the next value
+    if(array[i] < array[i+1]) {
+      // set sorted in descending order to false
       sortedDescending = false;
     }
-    else if(array[currentElement] > array[currentElement+1]) { 
+    // if the current value is greater than the next value 
+    else if(array[i] > array[i+1]) { 
+      // set sorted in ascending order to false
       sortedAscending = false;
     }
   }
+  // if both sorted orders are false
+  if(sortedAscending == false && sortedDescending == false) {
+      // return no
+      return "no";
+  } 
+  // or if sorted in ascending is true
+  else if(sortedAscending) {    
+      // return yes ascending
+      return "yes, ascending";
+  }
+  //  otherwise
+  else {
+      // return yes descending
+    return "yes, descending"; 
+  }
+}
+*/
 
+string is_sorted_and_how(vector<int> array)
+{
+  bool sortedAscending = true, sortedDescending = true;
+  for(int i = 0; i < array.size()-1; i++){ 
+    if(array[i] < array[i+1]) sortedDescending = false;
+    else if(array[i] > array[i+1]) sortedAscending = false;
+  }
   return (sortedAscending == false && sortedDescending == false) ? "no" :
          (sortedAscending) ? "yes, ascending" : "yes, descending";
 }
