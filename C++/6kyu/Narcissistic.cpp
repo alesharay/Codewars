@@ -39,10 +39,12 @@ bool narcissistic( int value ) {
   int i = 0;
   // a place to hold a temp value set to value
   int tempVal = value;
+  // a place to hold a temp length set to length
+  int tempLength = length;
   // while the length is greater than 0
-  while(--length >= 0) {
+  while(--tempLength >= 0) {
     // a place to hold the current exponent
-    double divisor = pow(10.0, (double)length);
+    double divisor = pow(10.0, (double)tempLength);
     // store the value divided by 10 to the length in the current element of the array
     valArr[i] = tempVal / divisor;
     // subtract the value by the highest place
@@ -52,11 +54,13 @@ bool narcissistic( int value ) {
   }
 
   // a place to store the sum
+  int sum = 0;
+  // for each value in the array
+  for(int val : valArr) { 
+    // add the value, taken to the length of the array, to the sum
+    sum += pow((double)val, (double)length);
+  }
 
-  // for each value in the array 
-    // take the value to the length of the array
-    // add the value to the sum
-  
   // if the sum equals the value
     // return true
   // otherwise
