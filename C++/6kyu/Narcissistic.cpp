@@ -29,42 +29,59 @@ The Challenge:
 
 using namespace std;
 
-bool narcissistic( int value ) {
-// break the value into an array with each number as a separate element
-  // a place to hold the length of the value
+// bool narcissistic( int value ) {
+// // break the value into an array with each number as a separate element
+//   // a place to hold the length of the value
+//   int length = to_string(value).length();
+//   // a place to hold the value array
+//   int valArr[length];
+//   // a place to store a counter
+//   int i = 0;
+//   // a place to hold a temp value set to value
+//   int tempVal = value;
+//   // a place to hold a temp length set to length
+//   int tempLength = length;
+//   // while the length is greater than 0
+//   while(--tempLength >= 0) {
+//     // a place to hold the current exponent
+//     double divisor = pow(10.0, (double)tempLength);
+//     // store the value divided by 10 to the length in the current element of the array
+//     valArr[i] = tempVal / divisor;
+//     // subtract the value by the highest place
+//     tempVal -= valArr[i] * divisor;
+//     // increment the counter
+//     i++;
+//   }
+
+//   // a place to store the sum
+//   int sum = 0;
+//   // for each value in the array
+//   for(int val : valArr) { 
+//     // add the value, taken to the length of the array, to the sum
+//     sum += pow((double)val, (double)length);
+//   }
+
+//   // if the sum equals the value
+//     // return true
+//   // otherwise
+//     // return false
+//   return (sum == value);
+// }
+
+bool narcissistic( int value ){
   int length = to_string(value).length();
-  // a place to hold the value array
-  int valArr[length];
-  // a place to store a counter
-  int i = 0;
-  // a place to hold a temp value set to value
-  int tempVal = value;
-  // a place to hold a temp length set to length
   int tempLength = length;
-  // while the length is greater than 0
+  int valArr[length];
+  int tempVal = value;
+  int i = 0;
+  int sum = 0;
   while(--tempLength >= 0) {
-    // a place to hold the current exponent
     double divisor = pow(10.0, (double)tempLength);
-    // store the value divided by 10 to the length in the current element of the array
     valArr[i] = tempVal / divisor;
-    // subtract the value by the highest place
     tempVal -= valArr[i] * divisor;
-    // increment the counter
+    sum += pow((double)valArr[i], (double)length);
     i++;
   }
-
-  // a place to store the sum
-  int sum = 0;
-  // for each value in the array
-  for(int val : valArr) { 
-    // add the value, taken to the length of the array, to the sum
-    sum += pow((double)val, (double)length);
-  }
-
-  // if the sum equals the value
-    // return true
-  // otherwise
-    // return false
   return (sum == value);
 }
 
