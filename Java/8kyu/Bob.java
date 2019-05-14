@@ -16,8 +16,18 @@
 public class Bob {
   public static int enough(int cap, int on, int wait)
   {
-    // your code here
-    return 0;
+    /*
+    // if capacity minus on is greater than wait
+    if ( (cap - on) > wait)
+      // return o
+      return 0;
+    // otherwise
+    else
+      // return wait minus (capacity - on)
+      return wait - (cap - on);
+    */
+    
+    return (cap - on) > wait ? 0 : wait - (cap - on);
   }
 
   public static void main(String... args) 
