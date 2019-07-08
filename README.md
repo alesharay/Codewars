@@ -23,6 +23,7 @@ Solving code katas for C++, Java, and Python.
 * ##### 8kyu
     - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail)
     - [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
+    - [ ] [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 
 * ##### 7kyu
     - [x] [ListFilter](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
