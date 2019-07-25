@@ -17,7 +17,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion)
     - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/solutions/java)
 	- [x] [EnoughSpace](https://www.codewars.com/kata/5875b200d520904a04000003)
-    - [ ] [ThirdAngle](https://www.codewars.com/kata/5a023c426975981341000014)
+    - [x] [ThirdAngle](https://www.codewars.com/kata/5a023c426975981341000014)
 
 ### Python Katas
 * ##### 8kyu
