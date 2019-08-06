@@ -1,6 +1,6 @@
 
 /*
-  An abundant number or excessive number is a number for which the sum of its proper divisors is greater than the number itself.
+  An abundant number or excessive number is a number for which the sum of its proper divisors is greater than the number itself. (A proper divisor of a positive integer is any divisor of other than itself.)
 
   The integer 12 is the first abundant number. Its proper divisors are 1, 2, 3, 4 and 6 for a total of 16 (> 12).
 
