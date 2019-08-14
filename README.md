@@ -21,7 +21,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [SumMixedArray](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
 
 * ##### 7kyu
-    - [ ] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
+    - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
 
 ### Python Katas
 * ##### 8kyu
