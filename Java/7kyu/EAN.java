@@ -9,17 +9,24 @@
 
 public class EAN {
     
+  public static boolean abundantNumber1(int num) {
+    int total_sum = 0;
+    int divisors = 0;
+    while (divisors++ < ((num/2))){
+      if (num % divisors == 0)
+        total_sum += divisors;
+    }
+    return (total_sum > num ? true : false);
+  }
+
   public static boolean abundantNumber(int num) {
-    // a place to store the total sum
-
-    // for each number less than the number itself
-
-      // if the current number is a divisor of the number
-
-        // add the current number to the total sum
-
-    // return whether the total sum is more than the number or not
-    return true;
+    int total_sum = 0; 
+    int divisors = 0;
+    while (divisors++ < ((num/2)))
+      if (num % divisors == 0)
+        total_sum += divisors;
+        
+    return total_sum > num;
   }
   
   public static void main(String[] args) {
