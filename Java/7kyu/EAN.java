@@ -10,8 +10,16 @@
 public class EAN {
     
   public static boolean abundantNumber(int num) {
-      // Your code goes here
-      return true;
+    // a place to store the total sum
+
+    // for each number less than the number itself
+
+      // if the current number is a divisor of the number
+
+        // add the current number to the total sum
+
+    // return whether the total sum is more than the number or not
+    return true;
   }
   
   public static void main(String[] args) {
