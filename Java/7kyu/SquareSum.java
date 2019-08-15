@@ -9,13 +9,13 @@ public class SquareSum
   public static int squareSum(int[] n)
   {
     // a place to hold the sum
-
+    int sum = 0;
     // for each number in the array
-
+    for (int value : n)
       // square the number and add it to the sum
-
+      sum += (value * value);
     // return the sum  
-    return 0;
+    return sum;
   }
 
   public static void main(String[] args) {
