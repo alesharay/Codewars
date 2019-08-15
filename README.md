@@ -17,13 +17,17 @@ Solving code katas for C++, Java, and Python.
     - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion)
     - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/solutions/java)
 	- [x] [EnoughSpace](https://www.codewars.com/kata/5875b200d520904a04000003)
-    - [ ] [ThirdAngle](https://www.codewars.com/kata/5a023c426975981341000014)
+    - [x] [ThirdAngle](https://www.codewars.com/kata/5a023c426975981341000014)
+    - [x] [SumMixedArray](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
+    - [ ] [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
+
+* ##### 7kyu
+    - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
 
 ### Python Katas
 * ##### 8kyu
     - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail)
     - [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
-    - [ ] [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
 
 * ##### 7kyu
     - [x] [ListFilter](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
