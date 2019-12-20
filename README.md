@@ -23,6 +23,7 @@ Solving code katas for C++, Java, and Python.
 
 * ##### 7kyu
     - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
+    - [x] [Disemvowel](https://www.codewars.com/kata/disemvowel-trolls/train/java)
 
 ### Python Katas
 * ##### 8kyu
