@@ -3,23 +3,23 @@ Solving code katas for C++, Java, and Python.
 
 ### C++ Katas
 * ##### 8kyu
-    - [x] [Hero](https://www.codewars.com/kata/is-he-gonna-survive)
+    - [x] [Hero](https://www.codewars.com/kata/is-he-gonna-survive/train/cpp)
     - [x] [PositiveSum](https://www.codewars.com/kata/sum-of-positive/train/cpp)
 
 * ##### 7kyu
-    - [x] [IsSortedAndHow](https://www.codewars.com/kata/580a4734d6df748060000045)
+    - [x] [IsSortedAndHow](https://www.codewars.com/kata/sorted-yes-no-how/train/cpp)
 
 * ##### 6kyu
-    - [x] [Narcissistic](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+    - [x] [Narcissistic](https://www.codewars.com/kata/does-my-number-look-big-in-this/train/cpp)
 
 ### Java Katas
 * ##### 8kyu
-    - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion)
+    - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion/train/java)
     - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/solutions/java)
-	- [x] [EnoughSpace](https://www.codewars.com/kata/5875b200d520904a04000003)
-    - [x] [ThirdAngle](https://www.codewars.com/kata/5a023c426975981341000014)
-    - [x] [SumMixedArray](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
-    - [x] [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
+	- [x] [EnoughSpace](https://www.codewars.com/kata/will-there-be-enough-space/train/java)
+    - [x] [ThirdAngle](https://www.codewars.com/kata/third-angle-of-a-triangle/train/java)
+    - [x] [SumMixedArray](https://www.codewars.com/kata/sum-mixed-array/train/java)
+    - [x] [Square(n) Sum](https://www.codewars.com/kata/square-n-sum/train/java)
     - [x] [RemoveChars](https://www.codewars.com/kata/remove-first-and-last-character/train/java)
 
 * ##### 7kyu
@@ -28,8 +28,8 @@ Solving code katas for C++, Java, and Python.
 
 ### Python Katas
 * ##### 8kyu
-    - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail)
-    - [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives)
+    - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail/train/python)
+    - [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives/train/python)
 
 * ##### 7kyu
-    - [x] [ListFilter](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
+    - [x] [ListFilter](https://www.codewars.com/kata/list-filtering/train/python)
