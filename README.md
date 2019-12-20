@@ -20,7 +20,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [ThirdAngle](https://www.codewars.com/kata/5a023c426975981341000014)
     - [x] [SumMixedArray](https://www.codewars.com/kata/57eaeb9578748ff92a000009)
     - [x] [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f)
-    - [ ] [RemoveChars](https://www.codewars.com/kata/remove-first-and-last-character/train/java)
+    - [x] [RemoveChars](https://www.codewars.com/kata/remove-first-and-last-character/train/java)
 
 * ##### 7kyu
     - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
