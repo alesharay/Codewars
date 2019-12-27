@@ -15,7 +15,7 @@ Solving code katas for C++, Java, and Python.
 ### Java Katas
 * ##### 8kyu
     - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion/train/java)
-    - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/solutions/java)
+    - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/Likess/java)
 	- [x] [EnoughSpace](https://www.codewars.com/kata/will-there-be-enough-space/train/java)
     - [x] [ThirdAngle](https://www.codewars.com/kata/third-angle-of-a-triangle/train/java)
     - [x] [SumMixedArray](https://www.codewars.com/kata/sum-mixed-array/train/java)
@@ -27,7 +27,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [Disemvowel](https://www.codewars.com/kata/disemvowel-trolls/train/java)
 
 * ##### 6kyu
-    - [ ] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
+    - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
 
 ### Python Katas
 * ##### 8kyu
