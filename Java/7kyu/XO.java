@@ -22,7 +22,11 @@ public class XO {
   }
 
   public static boolean getXO (String str) {
-    // Good Luck!!
-    return false;
+    int Xs = 0, Os = 0;
+    for (Character c : str.toCharArray()) {
+      if (Character.toLowerCase(c) == 'x') Xs++;
+      else if (Character.toLowerCase(c) == 'o') Os++;
+    }
+    return Xs == Os;
   }
 }
