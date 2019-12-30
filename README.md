@@ -25,6 +25,7 @@ Solving code katas for C++, Java, and Python.
 * ##### 7kyu
     - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
     - [x] [Disemvowel](https://www.codewars.com/kata/disemvowel-trolls/train/java)
+    - [ ] [Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/train/java)
 
 * ##### 6kyu
     - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
