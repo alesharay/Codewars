@@ -4,6 +4,9 @@
   - Note: The function accepts an integer and returns an integer
 */
 
+import java.util.Arrays;
+import java.util.stream.*;
+
 public class SquareDigit {
 
   public static void main (String... args) {
@@ -13,8 +16,29 @@ public class SquareDigit {
     System.out.println("0 --- " + new SquareDigit().squareDigits(0));
   }
 
-  public int squareDigits (int n) {
-    // TODO Implement me
-    return 0;
+  // public int squareDigits (int n) {
+  //   String result = "";
+  //   for (Character c : String.valueOf(n).toCharArray()) {
+  //     int num = Integer.parseInt(c.toString());
+  //     num = num * num;
+  //     result += String.valueOf(num);
+  //   }
+  //   return Integer.parseInt(result);
+  // }
+
+  // public int squareDigits (int n) {
+  //   String result = "";
+  //   for (Character c : String.valueOf(n).toCharArray()) {
+  //     int num = Integer.parseInt(c.toString());
+  //     result += String.valueOf(num * num);
+  //   }
+  //   return Integer.parseInt(result);
+  // }
+
+    public int squareDigits (int n) {
+    String result = "";
+    for (String c : String.valueOf(n).split("")) 
+      result += String.valueOf((int)Math.pow(Integer.parseInt(c), 2));
+    return Integer.parseInt(result);
   }
 }
