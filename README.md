@@ -27,6 +27,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [Disemvowel](https://www.codewars.com/kata/disemvowel-trolls/train/java)
     - [x] [Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/train/java)
     - [x] [Square Digits](https://www.codewars.com/kata/square-every-digit/train/java)
+    - [ ] [DNA](https://www.codewars.com/kata/complementary-dna/train/java)
 
 * ##### 6kyu
     - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
