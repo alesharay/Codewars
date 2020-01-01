@@ -15,16 +15,24 @@
 */
 
 public class DnaStrand {
-    public static void main(String... args) {
-        System.out.println();
-        System.out.println("Expected: TTTT --- Received: "  + DnaStrand.makeComplement("AAAA"));
-        System.out.println("Expected: TAACG --- Received: " + DnaStrand.makeComplement("ATTGC"));
-        System.out.println("Expected: CATA --- Received: "  + DnaStrand.makeComplement("GTAT"));
-        System.out.println();
-    }
-    
-    public static String makeComplement(String dna) {
-      //Your code
-      return "undefined";
-    }
+  public static void main(String... args) {
+    System.out.println();
+    System.out.println("Expected: TTTT --- Received: "  + DnaStrand.makeComplement("AAAA"));
+    System.out.println("Expected: TAACG --- Received: " + DnaStrand.makeComplement("ATTGC"));
+    System.out.println("Expected: CATA --- Received: "  + DnaStrand.makeComplement("GTAT"));
+    System.out.println();
   }
+  
+  public static String makeComplement(String dna) {
+      String result = "";
+      for (String c : dna.split("")) {
+          switch(c.toUpperCase()) {
+              case "A": result += "T"; break;
+              case "T": result += "A"; break;
+              case "C": result += "G"; break;
+              case "G": result += "C"; break;
+          }
+      }
+    return result;
+  }
+}
