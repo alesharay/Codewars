@@ -28,6 +28,7 @@ Solving code katas for C++, Java, and Python.
     - [x] [Exes and Ohs](https://www.codewars.com/kata/exes-and-ohs/train/java)
     - [x] [Square Digits](https://www.codewars.com/kata/square-every-digit/train/java)
     - [x] [DNA](https://www.codewars.com/kata/complementary-dna/train/java)
+    - [x] [Jaden Case](https://www.codewars.com/kata/jaden-casing-strings/train/java)
 
 * ##### 6kyu
     - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
