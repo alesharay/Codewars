@@ -24,7 +24,11 @@ public class JadenCase {
   }
 
 	public String toJadenCase(String phrase) {
-    // enter code here
-    return null;
+    if (phrase == null || phrase.isEmpty()) { return null; }
+    else {
+      String result = "";   
+      for (String str : phrase.split(" ")) { result +=  str.substring(0, 1).toUpperCase() + str.substring(1) + " "; }
+      return result.trim();
+    }
   }
 }
