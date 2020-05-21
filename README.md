@@ -17,7 +17,7 @@ Solving code katas for C++, Java, and Python.
 * ##### 8kyu
   - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion/train/java)
   - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/train/java)
-	- [x] [EnoughSpace](https://www.codewars.com/kata/will-there-be-enough-space/train/java)
+  - [x] [EnoughSpace](https://www.codewars.com/kata/will-there-be-enough-space/train/java)
   - [x] [ThirdAngle](https://www.codewars.com/kata/third-angle-of-a-triangle/train/java)
   - [x] [SumMixedArray](https://www.codewars.com/kata/sum-mixed-array/train/java)
   - [x] [Square(n) Sum](https://www.codewars.com/kata/square-n-sum/train/java)
