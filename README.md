@@ -45,4 +45,4 @@ Solving code katas for C++, Java, and Python.
 
 ### Kotlin Katas
 * ##### 8kyu
-  - [ ] [Subtract the Sum](https://www.codewars.com/kata/subtract-the-sum)
+  - [x] [Subtract the Sum](https://www.codewars.com/kata/subtract-the-sum)
