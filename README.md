@@ -47,3 +47,4 @@ Solving code katas for C++, Java, and Python.
 * ##### 8kyu
   - [x] [Subtract the Sum](https://www.codewars.com/kata/subtract-the-sum)
   - [x] [Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)
+  - [x] [Grasshopper-Summation](https://www.codewars.com/kata/grasshopper-summation)
