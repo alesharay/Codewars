@@ -48,3 +48,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Subtract the Sum](https://www.codewars.com/kata/subtract-the-sum)
   - [x] [Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)
   - [x] [Grasshopper-Summation](https://www.codewars.com/kata/grasshopper-summation)
+  - [x] [Is n divisible by x and y](https://www.codewars.com/kata/is-n-divisible-by-x-and-y)
+
+* ##### 7kyu
+  - [x] [Two to One](https://www.codewars.com/kata/two-to-one)
