@@ -52,3 +52,4 @@ Solving code katas for C++, Java, and Python.
 
 * ##### 7kyu
   - [x] [Two to One](https://www.codewars.com/kata/two-to-one)
+  - [x] [Printer Errors](https://www.codewars.com/kata/printer-errors) 
