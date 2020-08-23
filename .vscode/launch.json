@@ -5,6 +5,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "CodeLens (Launch) - isogram",
+      "request": "launch",
+      "mainClass": "isogram",
+      "projectName": "Codewars_bb03d128"
+    },
+    {
       "type": "kotlin",
       "request": "launch",
       "name": "Kotlin Launch",
