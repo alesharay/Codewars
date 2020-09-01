@@ -42,6 +42,7 @@ Solving code katas for C++, Java, and Python.
 
 * ##### 7kyu
   - [x] [ListFilter](https://www.codewars.com/kata/list-filtering/train/python)
+  - [x] [Isograms](https://www.codewars.com/kata/isograms)
 
 ### Kotlin Katas
 * ##### 8kyu
