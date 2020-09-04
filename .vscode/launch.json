@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - FakeBinary",
+      "request": "launch",
+      "mainClass": "FakeBinary",
+      "projectName": "Codewars_353b180f"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - isogram",
       "request": "launch",
       "mainClass": "isogram",
