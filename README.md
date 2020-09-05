@@ -42,8 +42,15 @@ Solving code katas for C++, Java, and Python.
 
 * ##### 7kyu
   - [x] [ListFilter](https://www.codewars.com/kata/list-filtering/train/python)
+  - [x] [Isograms](https://www.codewars.com/kata/isograms)
 
 ### Kotlin Katas
 * ##### 8kyu
   - [x] [Subtract the Sum](https://www.codewars.com/kata/subtract-the-sum)
   - [x] [Remove String Spaces](https://www.codewars.com/kata/remove-string-spaces)
+  - [x] [Grasshopper-Summation](https://www.codewars.com/kata/grasshopper-summation)
+  - [x] [Is n divisible by x and y](https://www.codewars.com/kata/is-n-divisible-by-x-and-y)
+
+* ##### 7kyu
+  - [x] [Two to One](https://www.codewars.com/kata/two-to-one)
+  - [x] [Printer Errors](https://www.codewars.com/kata/printer-errors) 
