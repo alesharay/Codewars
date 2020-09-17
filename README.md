@@ -44,6 +44,7 @@ Solving code katas for C++, Java, and Python.
 * ##### 7kyu
   - [x] [ListFilter](https://www.codewars.com/kata/list-filtering/train/python)
   - [x] [Isograms](https://www.codewars.com/kata/isograms)
+  - [] [16 + 18 = 214](https://www.codewars.com/kata/16-plus-18-equals-214)
 
 ### Kotlin Katas
 * ##### 8kyu
