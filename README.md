@@ -35,6 +35,8 @@ Solving code katas for C++, Java, and Python.
 * ##### 6kyu
   - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
 
+  - [] [Strip Comments](https://www.codewars.com/kata/strip-comments)
+
 ### Python Katas
 * ##### 8kyu
   - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail/train/python)
