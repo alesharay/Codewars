@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - StripComments",
+      "request": "launch",
+      "mainClass": "StripComments",
+      "projectName": "Codewars_22117c0a"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - isogram",
       "request": "launch",
       "mainClass": "isogram",
