@@ -16,12 +16,13 @@ Solving code katas for C++, Java, and Python.
 ### Java Katas
 * ##### 8kyu
   - [x] [Bio](https://www.codewars.com/kata/dna-to-rna-conversion/train/java)
-  - [x] [EvenOrOdd](https://www.codewars.com/kata/even-or-odd/train/java)
-  - [x] [EnoughSpace](https://www.codewars.com/kata/will-there-be-enough-space/train/java)
-  - [x] [ThirdAngle](https://www.codewars.com/kata/third-angle-of-a-triangle/train/java)
-  - [x] [SumMixedArray](https://www.codewars.com/kata/sum-mixed-array/train/java)
+  - [x] [Even Or Odd](https://www.codewars.com/kata/even-or-odd/train/java)
+  - [x] [Enough Space](https://www.codewars.com/kata/will-there-be-enough-space/train/java)
+  - [x] [Third Angle](https://www.codewars.com/kata/third-angle-of-a-triangle/train/java)
+  - [x] [Sum Mixed Array](https://www.codewars.com/kata/sum-mixed-array/train/java)
   - [x] [Square(n) Sum](https://www.codewars.com/kata/square-n-sum/train/java)
   - [x] [RemoveChars](https://www.codewars.com/kata/remove-first-and-last-character/train/java)
+  - [x] [Fake Binary](https://www.codewars.com/kata/fake-binary)
 
 * ##### 7kyu
   - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
@@ -40,11 +41,12 @@ Solving code katas for C++, Java, and Python.
 ### Python Katas
 * ##### 8kyu
   - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail/train/python)
-  - [x] [CountSum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives/train/python)
+  - [x] [Count Sum](https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives/train/python)
 
 * ##### 7kyu
-  - [x] [ListFilter](https://www.codewars.com/kata/list-filtering/train/python)
+  - [x] [List Filter](https://www.codewars.com/kata/list-filtering/train/python)
   - [x] [Isograms](https://www.codewars.com/kata/isograms)
+  - [x] [Silly Addition](https://www.codewars.com/kata/16-plus-18-equals-214)
 
 ### Kotlin Katas
 * ##### 8kyu
