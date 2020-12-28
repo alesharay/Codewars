@@ -2,7 +2,7 @@ public class StripComments {
 
 	public static String stripComments(String text, String[] commentSymbols) {
     String result = "";
-    text = text.replaceAll("\n", "~\n~");
+    text = text.replace("\n", "~\n~");
     String[] lines = text.trim().split( "\n" );
 
     String comments = "";
@@ -14,11 +14,12 @@ public class StripComments {
           String currentChar = ""+line.charAt(index);
 
           if( comments.contains(currentChar) ) { break; }
-          else {  result += currentChar; }
+          else { result += currentChar; }
       }
-      result = result.replaceAll("\\s+$","");
-      result = result.replaceAll("~", "");
-      result += "->";
+
+      result = result.replace("~", "");
+      if( !line.isBlank() ) result = result.replaceAll("\\s++$","");
+      result += "]";
       result += "\n";
     }
 
@@ -27,7 +28,7 @@ public class StripComments {
   
   public static void main(String[] args) {
     System.out.println();
-    System.out.println( "Expected:<\napples, pears->\n->\ngrapes->\nbananas->>\n\nRecieived:<\n" +
+    System.out.println( "Expected:<\napples, pears]\n]\ngrapes]\nbananas]>\n\nRecieived:<\n" +
     StripComments.stripComments( "apples, pears # and bananas\n\ngrapes\nbananas !apples", new String[] { "#", "!" } ) + ">");
     System.out.println();
     System.out.println();
@@ -37,7 +38,7 @@ public class StripComments {
     // System.out.println();
     // System.out.println();
 
-    System.out.println( "Expected:<\n->\na->\n b->\nc->>\n\nReceived:<\n" +
+    System.out.println( "Expected:<\n]\na]\n b]\nc]>\n\nReceived:<\n" +
     StripComments.stripComments( "\na\n b \nc", new String[] { "#", "$" } ) + ">");
     System.out.println();
   }
