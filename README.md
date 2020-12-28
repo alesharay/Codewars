@@ -35,7 +35,9 @@ Solving code katas for C++, Java, and Python.
 
 * ##### 6kyu
   - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
+  - [] [Find the Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier)
 
+* ##### 4kyu
   - [] [Strip Comments](https://www.codewars.com/kata/strip-comments)
 
 ### Python Katas
