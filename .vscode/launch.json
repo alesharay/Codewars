@@ -9,6 +9,13 @@
       "name": "Launch StripComments",
       "request": "launch",
       "mainClass": "StripComments",
+      "projectName": "Codewars_77dd9f27"
+    },
+    {
+      "type": "java",
+      "name": "Launch StripComments",
+      "request": "launch",
+      "mainClass": "StripComments",
       "projectName": "Codewars_8ff4476d"
     },
     {
