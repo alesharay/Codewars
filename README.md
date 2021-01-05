@@ -38,7 +38,7 @@ Solving code katas for C++, Java, and Python.
   - [] [Find the Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier)
 
 * ##### 4kyu
-  - [] [Strip Comments](https://www.codewars.com/kata/strip-comments)
+  - [x] [Strip Comments](https://www.codewars.com/kata/strip-comments)
 
 ### Python Katas
 * ##### 8kyu
