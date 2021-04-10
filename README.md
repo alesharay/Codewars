@@ -23,6 +23,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Square(n) Sum](https://www.codewars.com/kata/square-n-sum/train/java)
   - [x] [RemoveChars](https://www.codewars.com/kata/remove-first-and-last-character/train/java)
   - [x] [Fake Binary](https://www.codewars.com/kata/fake-binary)
+  - [x] [Convert Number to Reversed Array of Digits](https://www.codewars.com/kata/convert-number-to-reversed-array-of-digits/train/java)
 
 * ##### 7kyu
   - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
