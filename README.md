@@ -34,6 +34,9 @@ Solving code katas for C++, Java, and Python.
   - [x] [Jaden Case](https://www.codewars.com/kata/jaden-casing-strings/train/java)
   - [x] [Sum of Numbers](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/train/java)
 
+* ##### 5kyu
+  - [x] [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/java)
+
 * ##### 6kyu
   - [x] [Likes](https://www.codewars.com/kata/who-likes-it/train/java)
   - [x] [Find the Parity Outlier](https://www.codewars.com/kata/find-the-parity-outlier)
