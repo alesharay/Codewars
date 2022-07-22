@@ -33,6 +33,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [DNA](https://www.codewars.com/kata/complementary-dna/train/java)
   - [x] [Jaden Case](https://www.codewars.com/kata/jaden-casing-strings/train/java)
   - [x] [Sum of Numbers](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/train/java)
+  - [x] [Validate Pin Code](https://www.codewars.com/kata/regex-validate-pin-code)
 
 * ##### 5kyu
   - [x] [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/java)

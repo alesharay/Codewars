@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ValidatePinCode",
+      "request": "launch",
+      "mainClass": "ValidatePinCode",
+      "projectName": "Codewars_f5ed91ee"
+    },
+    {
+      "type": "java",
       "name": "Launch StripComments",
       "request": "launch",
       "mainClass": "StripComments",
