@@ -45,6 +45,9 @@ Solving code katas for C++, Java, and Python.
 * ##### 4kyu
   - [x] [Strip Comments](https://www.codewars.com/kata/strip-comments)
 
+* ##### 3kyu
+  - [] [Closest Pair of Points in Linear Arithmatic](https://www.codewars.com/kata/closest-pair-of-points-in-linearithmic-time/java)
+
 ### Python Katas
 * ##### 8kyu
   - [x] [Tail](https://www.codewars.com/kata/is-this-my-tail/train/python)
