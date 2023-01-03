@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Doubled",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.Doubled",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "Launch ValidatePinCode",
       "request": "launch",
       "mainClass": "ValidatePinCode",
