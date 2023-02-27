@@ -25,6 +25,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Fake Binary](https://www.codewars.com/kata/fake-binary)
   - [x] [Convert Number to Reversed Array of Digits](https://www.codewars.com/kata/convert-number-to-reversed-array-of-digits/train/java)
   - [x] [Beginner Lost Without A Map](https://www.codewars.com/kata/beginner-lost-without-a-map/train/java)
+  - [x] [Opposites Attract](https://www.codewars.com/kata/opposites-attract/train/java)
 
 * ##### 7kyu
   - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
