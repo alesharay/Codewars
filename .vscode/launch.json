@@ -6,9 +6,30 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FakeBinary",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.FakeBinary",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "com.aleshamray.App",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bio",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.Bio",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "Launch Doubled",
       "request": "launch",
-      "mainClass": "com.aleshamray.eight_kyu.Doubled",
+      "mainClass": "com.aleshamray.eight_kyu.OppositesAttract",
       "projectName": "java"
     },
     {
