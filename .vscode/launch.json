@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringValue",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.StringValue",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "Launch FakeBinary",
       "request": "launch",
       "mainClass": "com.aleshamray.eight_kyu.FakeBinary",
