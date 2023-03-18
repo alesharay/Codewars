@@ -36,6 +36,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Jaden Case](https://www.codewars.com/kata/jaden-casing-strings/train/java)
   - [x] [Sum of Numbers](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/train/java)
   - [x] [Validate Pin Code](https://www.codewars.com/kata/regex-validate-pin-code)
+  - [x] [String ends with](https://www.codewars.com/kata/string-ends-with/train/java)
 
 * ##### 5kyu
   - [x] [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/java)
