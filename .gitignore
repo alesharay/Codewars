@@ -204,6 +204,9 @@ fabric.properties
 # Compiled class file
 *.class
 
+# Java version file
+.java-version
+
 # Log file
 *.log
 
