@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Clock",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.Clock",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "StringValue",
       "request": "launch",
       "mainClass": "com.aleshamray.seven_kyu.StringValue",
