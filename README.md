@@ -26,6 +26,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Convert Number to Reversed Array of Digits](https://www.codewars.com/kata/convert-number-to-reversed-array-of-digits/train/java)
   - [x] [Beginner Lost Without A Map](https://www.codewars.com/kata/beginner-lost-without-a-map/train/java)
   - [x] [Opposites Attract](https://www.codewars.com/kata/opposites-attract/train/java)
+  - [x] [Beginner Series Number 2 Clock](https://www.codewars.com/kata/beginner-series-number-2-clock)
 
 * ##### 7kyu
   - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)
