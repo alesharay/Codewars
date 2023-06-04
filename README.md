@@ -38,6 +38,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Sum of Numbers](https://www.codewars.com/kata/beginner-series-number-3-sum-of-numbers/train/java)
   - [x] [Validate Pin Code](https://www.codewars.com/kata/regex-validate-pin-code)
   - [x] [String ends with](https://www.codewars.com/kata/string-ends-with/train/java)
+  - [x] [Find The Next Perfect Square](https://www.codewars.com/kata/find-the-next-perfect-square)
 
 * ##### 5kyu
   - [x] [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/java)
