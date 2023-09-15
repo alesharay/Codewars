@@ -1,0 +1,127 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Metro",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.Metro",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "BinaryArrayToNumber",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.BinaryArrayToNumber",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Upper",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.Upper",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Persist",
+      "request": "launch",
+      "mainClass": "com.aleshamray.six_kyu.Persist",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "NumberFun",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.NumberFun",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Clock",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.Clock",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "StringValue",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.StringValue",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch FakeBinary",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.FakeBinary",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "com.aleshamray.App",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bio",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.Bio",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch Doubled",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.OppositesAttract",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
+      "name": "Launch ValidatePinCode",
+      "request": "launch",
+      "mainClass": "ValidatePinCode",
+      "projectName": "Codewars_f5ed91ee"
+    },
+    {
+      "type": "java",
+      "name": "Launch StripComments",
+      "request": "launch",
+      "mainClass": "StripComments",
+      "projectName": "Codewars_77dd9f27"
+    },
+    {
+      "type": "java",
+      "name": "Launch StripComments",
+      "request": "launch",
+      "mainClass": "StripComments",
+      "projectName": "Codewars_8ff4476d"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - StripComments",
+      "request": "launch",
+      "mainClass": "StripComments",
+      "projectName": "Codewars_22117c0a"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - isogram",
+      "request": "launch",
+      "mainClass": "isogram",
+      "projectName": "Codewars_bb03d128"
+    },
+    {
+      "type": "kotlin",
+      "request": "launch",
+      "name": "Kotlin Launch",
+      "projectRoot": "${workspaceFolder}",
+      "mainClass": "path.to.your.MainClassKt"
+    }
+  ]
+}
