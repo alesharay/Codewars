@@ -42,6 +42,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Find The Next Perfect Square](https://www.codewars.com/kata/find-the-next-perfect-square)
   - [x] [Zeros and ones](https://www.codewars.com/kata/ones-and-zeros/train/java)
   - [x] [Number of people in the bus](https://www.codewars.com/kata/number-of-people-in-the-bus/train/java)
+  - [x] [Odd or Even](https://www.codewars.com/kata/odd-or-even/train/java)
 
 * ##### 5kyu
   - [x] [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/java)
@@ -82,6 +83,6 @@ Solving code katas for C++, Java, and Python.
 
 * ##### 7kyu
   - [x] [Two to One](https://www.codewars.com/kata/two-to-one)
-  - [x] [Printer Errors](https://www.codewars.com/kata/printer-errors) 
+  - [x] [Printer Errors](https://www.codewars.com/kata/printer-errors)
 
 ### Go Katas

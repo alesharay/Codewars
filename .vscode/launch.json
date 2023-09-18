@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Parity",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.Parity",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "Metro",
       "request": "launch",
       "mainClass": "com.aleshamray.seven_kyu.Metro",
