@@ -27,6 +27,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Beginner Lost Without A Map](https://www.codewars.com/kata/beginner-lost-without-a-map/train/java)
   - [x] [Opposites Attract](https://www.codewars.com/kata/opposites-attract/train/java)
   - [x] [Beginner Series Number 2 Clock](https://www.codewars.com/kata/beginner-series-number-2-clock)
+  - [ ] [Remove The Time](https://www.codewars.com/kata/remove-the-time)
 
 * ##### 7kyu
   - [x] [ExcessivelyAbundantNumbers](https://www.codewars.com/kata/excessively-abundant-numbers/train/java)

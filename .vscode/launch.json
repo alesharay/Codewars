@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemoveTime",
+      "request": "launch",
+      "mainClass": "com.aleshamray.eight_kyu.RemoveTime",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "NumberFun",
       "request": "launch",
       "mainClass": "com.aleshamray.seven_kyu.NumberFun",
