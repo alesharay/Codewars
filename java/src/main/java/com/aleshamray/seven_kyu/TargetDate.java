@@ -4,12 +4,21 @@ import java.time.*;
 
 public class TargetDate {
   public static String dateNbDays(double a0, double a, double p) {
-    // your code
-    return "null";
+    long days = 0;
+    while (a0 <= a) {
+      a0 += (a0 * (p / 36000));
+      days++;
+    }
+
+    LocalDate dayOne = LocalDate.of(2016, 01, 01);
+
+    return dayOne.plusDays(days).toString();
   }
 
   public static void main(String[] args) {
     System.out.println();
+    System.out.println(TargetDate.dateNbDays(100, 101, .98) + "   2017-01-01");
+    System.out.println(TargetDate.dateNbDays(100, 150, 2) + "   2035-12-26");
     System.out.println(TargetDate.dateNbDays(4281, 5087, 2) + "   2024-07-03");
     System.out.println(TargetDate.dateNbDays(4620, 5188, 2) + "   2021-09-19");
     System.out.println(TargetDate.dateNbDays(9999, 11427, 6) + "   2018-03-13");

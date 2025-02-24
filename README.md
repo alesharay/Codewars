@@ -40,7 +40,7 @@ Solving code katas for C++, Java, and Python.
   - [x] [Validate Pin Code](https://www.codewars.com/kata/regex-validate-pin-code)
   - [x] [String ends with](https://www.codewars.com/kata/string-ends-with/train/java)
   - [x] [Find The Next Perfect Square](https://www.codewars.com/kata/find-the-next-perfect-square)
-  - [ ] [Target Date](https://www.codewars.com/kata/target-date)
+  - [x] [Target Date](https://www.codewars.com/kata/target-date)
 
 * ##### 5kyu
   - [x] [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/java)
