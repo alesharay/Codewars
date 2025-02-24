@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TargetDate",
+      "request": "launch",
+      "mainClass": "com.aleshamray.seven_kyu.TargetDate",
+      "projectName": "java"
+    },
+    {
+      "type": "java",
       "name": "RemoveTime",
       "request": "launch",
       "mainClass": "com.aleshamray.eight_kyu.RemoveTime",
