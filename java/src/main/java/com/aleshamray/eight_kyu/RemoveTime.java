@@ -2,16 +2,22 @@ package com.aleshamray.eight_kyu;
 
 public class RemoveTime {
   public static String shortenToDate(String longDate) {
-    //Put your code here ^_^
-    return "null";
+    return longDate.split(",")[0];
   }
 
   public static void main(String... args) {
     System.out.println();
     System.out.println(RemoveTime.shortenToDate("Friday May 2, 7pm") + "   Friday May 2");
     System.out.println();
+    System.out.println(RemoveTime.shortenToDate("Friday May 2, 9am") + "   Friday May 2");
+    System.out.println();
+    System.out.println(RemoveTime.shortenToDate("Tuesday January 29, 10pm") + "   Tuesday January 29");
+    System.out.println();
+    System.out.println(RemoveTime.shortenToDate("Monday December 25, 10pm") + "   Monday December 25");
+    System.out.println();
   }
 }
+
 
 // https://www.codewars.com/kata/remove-the-time
 
